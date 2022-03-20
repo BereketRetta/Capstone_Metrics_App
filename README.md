@@ -8,11 +8,11 @@
 
 - Home Page
 
-![Home Page](https://user-images.githubusercontent.com/59416136/147358172-7d4151d1-27ef-4dea-b3d8-ffee038bb87e.png)
+![Home Page](https://raw.githubusercontent.com/BereketRetta/Capstone_Metrics_App/development/screenshot.png)
 
 - Detail Page
 
-![Detail Page](https://user-images.githubusercontent.com/59416136/147358119-df9eefd1-3210-4c9f-a487-10cfd4136a6d.png)
+![Detail Page](https://raw.githubusercontent.com/BereketRetta/Capstone_Metrics_App/development/screenshot1.png)
 
 
 ## Built With
