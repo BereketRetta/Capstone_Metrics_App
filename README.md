@@ -50,7 +50,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Wes-Isaac/capstone_metrics_app/issues/new).
+Feel free to check the [issues page](https://github.com/bereketretta/capstone_metrics_app/issues/new).
 
 ## Show your support
 
