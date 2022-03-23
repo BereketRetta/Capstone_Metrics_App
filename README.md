@@ -25,7 +25,7 @@
 
 [Presentation Link](https://www.loom.com/share/5a5112c5804247e49a7fdf9e502d1e0f)
 
-[Live Demo Link](covidmetricsreact.netlify.app)
+[Live Demo Link](https://www.covidmetricsreact.netlify.app)
 
 ## Getting Started
 
