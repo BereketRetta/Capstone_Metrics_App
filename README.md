@@ -10,10 +10,6 @@
 
 ![Home Page](https://raw.githubusercontent.com/BereketRetta/Capstone_Metrics_App/development/screenshot.png)
 
-- Detail Page
-
-![Detail Page](https://raw.githubusercontent.com/BereketRetta/Capstone_Metrics_App/development/screenshot1.png)
-
 
 ## Built With
 - React-Redux
@@ -29,7 +25,7 @@
 
 [Presentation Link](https://www.loom.com/share/5a5112c5804247e49a7fdf9e502d1e0f)
 
-<!-- [Live Demo Link](https://wonderful-newton-eacb6a.netlify.app/) -->
+[Live Demo Link](covidmetricsreact.netlify.app)
 
 ## Getting Started
 
