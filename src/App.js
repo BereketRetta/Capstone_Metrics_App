@@ -1,20 +1,18 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Detail from './components/Detail';
-import Home from './components/Home';
-import './App.css';
-import Navbar from './components/Navbar';
+import { Route, Switch } from 'react-router-dom';
+import Home from './component/features/HomePage/home';
+import Detail from './component/features/DetailPage/detail';
+import './app.scss';
+import FilterByContinent from './component/features/Filter/filterByContinent';
 
 function App() {
   return (
-    <BrowserRouter>
-      <div className="App">
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route exact path="/detail/:name" element={<Detail />} />
-        </Routes>
-      </div>
-    </BrowserRouter>
+    <div className="App">
+      <Switch>
+        <Route path="/continent/:continent" exact component={Home} />
+        <Route path="/country/:country" component={Detail} />
+        <Route path="/" exact component={FilterByContinent} />
+      </Switch>
+    </div>
   );
 }
 
