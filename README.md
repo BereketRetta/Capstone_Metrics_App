@@ -51,6 +51,10 @@ Feel free to check the [issues page](https://github.com/bereketretta/capstone_me
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
